@@ -1,0 +1,493 @@
+/*--------------------univesal class------------------*/
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+/*---------------navigation bar starts here-------------*/
+
+.nav-bar {
+    display: flex;
+    background-color: hsl(210.86deg 28% 24.51%);
+    justify-content: end;
+    padding-right: 7rem;
+    font-size: 13px;
+    font-weight: bold;
+    border: 1px solid #605f5f;
+}
+
+.anchor-nav {
+    padding: 45px 0px 45px 30px;
+    color: hsl(208.42deg 100% 96.27%);
+}
+
+.nav-button {
+    background-color: hsl(168.66deg 77.36% 41.57%);
+    border: 1px solid #18bc9d;
+    border-radius: 4px;
+    padding: 0px 11px;
+    height: 27px;
+    margin: 39px 0px 0px 31px;
+    color: white;
+    font-weight: 100;
+    font-size: 11px;
+}
+
+.nav-para {
+    font-size: 28px;
+    color: #efefef;
+    margin-right: 29rem;
+    margin-top: 35px;
+    letter-spacing: 1px;
+}
+
+.nav-icon {
+    color: gold;
+    padding: 29px 10px 0px 0px;
+    font-size: 45px;
+}
+
+/*--------------------section one starts here------------------*/
+.section-one {
+    background-color: hsl(210deg 28.77% 28.63%);
+    text-align: center;
+    display: flex;
+    height: 37rem;
+}
+
+.div-center {
+    text-align: center;
+}
+
+.heading-one {
+    font-size: 34px;
+    color: hsl(0deg 0% 99.41%);
+    padding: 38px 0px 0px 0px;
+    position: relative;
+    left: 29rem;
+}
+
+.para-one {
+    font-size: 15px;
+    color: #b2c6cf;
+    padding: 102px 0px 0px 74px;
+}
+
+.video-one {
+    width: 41rem;
+    margin: 10rem 0px 0px -43rem;
+    height: 23rem;
+    border-radius: 7px;
+}
+
+.sec-one-li {
+    padding-left: 10px;
+}
+
+.div-one-form {
+    background-color: hsl(210deg 23.08% 35.69%);
+    width: 19rem;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    height: 23rem;
+    margin: 159px 0px 0px 0px;
+}
+
+.para-form {
+    font-size: 14px;
+    padding: 27px 0px 12px 0px;
+}
+
+.para-form-two {
+    font-size: 13px;
+    color: hsl(210deg 20.99% 68.24%);
+}
+
+.input-form {
+    padding: 18px 91px 10px 17px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 16px;
+}
+
+.input-button {
+    font-size: 15px;
+    padding: 10px 90px 15px 83px;
+    color: white;
+    background-color: hsl(168.08deg 72.22% 42.35%);
+    border: none;
+    margin-top: 15px;
+    letter-spacing: 1px;
+    border-radius: 4px;
+}
+
+.but-para {
+    font-size: 13px;
+    color: #b2c6cf;
+    padding: 15px 0px 0px 0px;
+}
+
+/*-------------------section two starts here-----------------*/
+
+
+.heading-sec {
+    font-size: 13px;
+    letter-spacing: 0.6px;
+}
+
+.para-one-box {
+    font-size: 13px;
+    color: hsl(0deg 0.54% 55.66%);
+    padding-top: 3px;
+    line-height: 18px;
+    letter-spacing: 0.9px;
+}
+
+.pic-box {
+    width: 64px;
+    position: relative;
+    right: 86px;
+    top: 69px;
+}
+
+.box-same {
+    padding-left: 10rem;
+}
+
+.divth {
+    display: flex;
+    margin-left: 54px;
+}
+
+.div-sec-three {
+    text-align: center;
+}
+
+.heading-div-div {
+    font-size: 29px;
+    letter-spacing: 1px;
+}
+
+.para-three-div {
+    font-size: 13px;
+    padding-top: 16px;
+    font-weight: bold;
+}
+
+.border {
+    border: 9px solid hsl(192deg 15.15% 93.53%);
+    padding: 10px 0px 10px 10px;
+    margin: 44px 158px -38px 163px;
+    border-radius: 5px;
+}
+
+.para-line {
+    padding: 9px 0px 0px 0px;
+    background-color: hsl(200deg 8.11% 85.49%);
+    margin-right: 56rem;
+}
+
+.lists {
+    position: relative;
+    left: 71.9rem;
+    top: -6px;
+    font-size: 15px;
+    padding: 11px;
+    background-color: hsl(192deg 15.15% 93.53%);
+    color: #bbb0b0;
+}
+
+.div-form-two {
+    text-align: center;
+}
+
+.div-bac {
+    background-color: hsl(210deg 23.08% 35.69%);
+    color: white;
+    margin: 0px 158px 0px 163px;
+}
+
+.heading-form-two {
+    font-size: 31px;
+    padding-top: 78px;
+}
+
+.form-button {
+    position: relative;
+    top: 105px;
+    right: 133px;
+    color: #e3e313;
+    font-size: 18px;
+}
+
+.input-button-form {
+    font-size: 15px;
+    padding: 10px 156px 15px 150px;
+    color: white;
+    background-color: hsl(168.08deg 72.22% 42.35%);
+    border: none;
+    margin-top: 15px;
+    letter-spacing: 1px;
+    border-radius: 4px;
+}
+
+.lost {
+    text-decoration: underline;
+    color: #b2c6cf;
+    padding-top: 18px;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.input-form-form {
+    padding: 18px 160px 10px 20px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 16px;
+}
+
+.less-than- {
+    font-size: 37px;
+    position: relative;
+    left: -35rem;
+    color: #857d7d;
+    top: -84px;
+}
+
+.greater-than- {
+    font-size: 37px;
+    position: relative;
+    left: 35rem;
+    color: #857d7d;
+    top: -84px;
+}
+
+/*-----------------------section four starts here-------------------------*/
+.section-four {
+    background-color: hsl(180deg 8.16% 61.57%);
+    padding-bottom: 5rem;
+}
+
+.heading-four-sec {
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    padding: 60px 0px 24px 0px;
+}
+
+.para-four-sec {
+    font-size: 14px;
+    text-align: center;
+    color: #e9e6e6;
+}
+
+.div-same-paragraph {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -133px;
+}
+
+.paragraph-same {
+    position: relative;
+    background-color: white;
+    padding: 21px 29px 36px 33px;
+    border-radius: 5px;
+}
+
+.paragraph-two {
+    left: 112px;
+}
+
+.paragraph-four {
+    left: 112px;
+}
+
+.para-message {
+    font-size: 14px;
+    color: #939393;
+    line-height: 22px;
+}
+
+.names {
+    padding: 24px 0px 0px 0px;
+    font-size: 13px;
+    color: #3c3b3b;
+}
+
+.image-presi {
+    width: 166px;
+    height: 170px;
+    position: relative;
+    right: -112px;
+    top: -8px;
+}
+
+.img-obama {
+    left: 118px;
+    top: 29px;
+}
+
+.img-chin {
+    top: -2px;
+    left: 118px;
+}
+
+.img-old {
+    top: -26px;
+}
+
+.txt-cen {
+    text-align: center;
+    color: hsl(214.74deg 16.24% 22.94%);
+}
+
+.heading-five-sec {
+    font-size: 26px;
+    padding: 62px 0px 18px 0px;
+}
+
+.para-five-sec {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.table {
+    border: 1px solid lightgrey;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 6px;
+    margin: 28px 15px 79px 24px;
+    width: 19rem;
+}
+
+.basic {
+    background-color: hsl(192deg 9.45% 87.83%);
+    font-weight: bold;
+    font-size: 15px;
+    padding: 4px 0px 3px 0px;
+}
+
+.dollor {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 6px 0px 17px 0px;
+}
+
+.line- {
+    padding: 0.5px;
+    position: relative;
+    width: 15rem;
+    background-color: #dbdbdb;
+    top: 108px;
+    margin-left: 54px;
+}
+
+.table-button {
+    background-color: hsl(167.7deg 74.88% 42.16%);
+    color: #efeaea;
+    padding: 10px 83px 10px 83px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    margin: 11px 0px 11px 0px;
+    font-weight: bold;
+}
+
+.same-para {
+    line-height: 25px;
+    color: #898484;
+    font-size: 15px;
+}
+
+.three-tables {
+    display: flex;
+    justify-content: center;
+}
+
+.second-last {
+    text-align: center;
+    background-color: hsl(210deg 28.77% 28.63%);
+    color: white;
+    padding-bottom: 55px;
+}
+
+.heading-second-last {
+    font-weight: 500;
+    font-size: 28px;
+    padding: 66px 0px 24px 0px;
+}
+
+.para-second-last {
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    padding-bottom: 30px;
+}
+
+.section-last {
+    background-color: hsl(210.86deg 28% 24.51%);
+    color: white;
+}
+
+.copywirte {
+    font-size: 12px;
+    padding: 51px 0px 21px 142px;
+    letter-spacing: 0.5px;
+    color: #b7b7b7;
+}
+
+.icon-last {
+    position: relative;
+    top: -37px;
+    left: 76rem;
+    background-color: white;
+    color: #4141e1;
+    padding: 6px 17px 7px 7px;
+    border-radius: 5px;
+}
+
+.twitter {
+    font-size: 15px;
+}
+
+.user {
+    font-size: 15px;
+    color: #1eba9b;
+    position: relative;
+    top: 16.2rem;
+    left: 275px;
+}
+
+.envelope {
+    font-size: 18px;
+    position: relative;
+    bottom: 17.2rem;
+    left: 70.9rem;
+    color: #a7a2a2;
+}
+
+.lock {
+    position: relative;
+    color: #a7a5a5;
+    top: 23.5rem;
+    right: 41px;
+}
+
+.user-two {
+    position: relative;
+    color: #1eba9b;
+    bottom: 306px;
+    left: 162px;
+}
+
+.lock-two {
+    position: relative;
+    color: #b6cfca;
+    bottom: 247px;
+    left: 145px;
+}
